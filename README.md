@@ -1,7 +1,7 @@
 # neo-gpu-architecture
 An assumed HBM2+GDDR GPU architecture that aims to reduce costs and increase efficiency (unverified)
 
-This document is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. Full license text is available in the LICENSE file.
+This document is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. Full license text is available in the LICENSE（2） file.
 
 NeoGPU 永续弹性显存架构
 完全总结报告
